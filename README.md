@@ -1,2 +1,1 @@
-# Travel-Hub
-Travel Hub is a full-stack travel management system built using React, Node.js, and MongoDB for managing destinations and bookings easily.
+Travel Hub is a web-based travel management system that allows users to browse travel packages, book trips, and view booking details with a simple and responsive interface.
